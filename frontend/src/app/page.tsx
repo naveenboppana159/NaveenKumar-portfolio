@@ -820,7 +820,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <h4 className="font-body-lg" style={{ fontWeight: 700 }}>Accelerated Career Growth</h4>
-                    <p className="text-on-surface-variant font-body-md" style={{ marginTop: '0.25rem' }}>Received Full-Time offer within just 7 months of internship due to exceptional performance.</p>
+                    <p className="text-on-surface-variant font-body-md" style={{ marginTop: '0.25rem' }}>Received Full-Time offer within just 6 months of Trainee due to exceptional performance.</p>
                   </div>
                 </div>
                 <div className="glass-card ach-card">
@@ -839,9 +839,9 @@ export default function Portfolio() {
               <h2 className="font-headline-md text-secondary" style={{ marginBottom: '1.5rem' }}>Education</h2>
               <div className="glass-card edu-card">
                 <span className="text-secondary font-code" style={{ fontSize: '0.875rem' }}>2018 - 2022</span>
-                <h3 className="font-headline-md" style={{ fontSize: '24px', marginTop: '0.5rem' }}>B.Tech in Computer Science</h3>
+                <h3 className="font-headline-md" style={{ fontSize: '24px', marginTop: '0.5rem' }}>B.Tech in EEE </h3>
                 <p className="text-on-surface-variant font-body-md" style={{ fontWeight: 700, marginBottom: '1rem' }}>Aditya Engineering College</p>
-                <p className="text-on-surface-variant font-body-md">Graduated with a strong focus on software engineering principles, algorithms, and data structures.</p>
+                <p className="text-on-surface-variant font-body-md">Developed a Home Automation application using IDLE software, enabling users to control smart devices through an intuitive and user-friendly interface. </p>
               </div>
             </div>
           </div>
