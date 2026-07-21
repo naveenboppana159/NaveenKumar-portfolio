@@ -927,9 +927,9 @@ export default function Portfolio() {
           <div className="font-headline-md" style={{ fontWeight: 800 }}>NB</div>
           <p className="font-body-md text-on-surface-variant">© 2024 Naveen Kumar Boppana. All rights reserved.</p>
           <div className="footer-links font-body-md text-on-surface-variant">
-            <a href="#">GitHub</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Email</a>
+            <a href="https://github.com/naveenboppana159" target="_blank">GitHub</a>
+            <a href=" https://www.linkedin.com/in/naveen-kumar-boppana-a00a56233" target="_blank">LinkedIn</a>
+            <a href="mailto:naveenboppana159@gmail.com">Email</a>
           </div>
         </div>
       </footer>
