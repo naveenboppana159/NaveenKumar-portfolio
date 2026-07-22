@@ -632,7 +632,7 @@ export default function Portfolio() {
               {/* Present Role */}
               <div className="timeline-item reveal">
                 <div className="timeline-side-content">
-                  <span className="text-primary font-code" style={{ fontSize: '0.875rem' }}>Dec 2024 - Present</span>
+                  <span className="text-primary font-code" style={{ fontSize: '0.875rem' }}>Jun 2024 - Present</span>
                   <h3 className="font-headline-md" style={{ fontSize: '24px', marginTop: '0.5rem' }}>Software Engineer</h3>
                   <p className="text-on-surface-variant font-body-md" style={{ fontWeight: 700 }}>Gowdanar Technologies</p>
                 </div>
@@ -656,7 +656,7 @@ export default function Portfolio() {
               {/* Internship */}
               <div className="timeline-item reverse reveal">
                 <div className="timeline-side-content">
-                  <span className="text-secondary font-code" style={{ fontSize: '0.875rem' }}>Jun 2024 - Dec 2024</span>
+                  <span className="text-secondary font-code" style={{ fontSize: '0.875rem' }}>Dec 2023 - Jun 2024</span>
                   <h3 className="font-headline-md" style={{ fontSize: '24px', marginTop: '0.5rem' }}>Project (Trainee)</h3>
                   <p className="text-on-surface-variant font-body-md" style={{ fontWeight: 700 }}>Gowdanar Technologies</p>
                 </div>
