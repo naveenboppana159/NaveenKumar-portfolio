@@ -486,7 +486,7 @@ export default function Portfolio() {
                 Full Stack Developer
               </p>
               <p className="font-body-lg text-on-surface-variant" style={{ maxWidth: '36rem' }}>
-                Full Stack Developer with 2+ years of experience building scalable web and mobile applications using{' '}
+                Full Stack Developer with 3 years of experience building scalable web and mobile applications using{' '}
                 <span className="text-primary">React.js, Next.js, React Native, Django, Python, PostgreSQL, and CockroachDB.</span>
               </p>
               
