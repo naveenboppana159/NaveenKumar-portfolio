@@ -438,7 +438,7 @@ export default function Portfolio() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
             {/* Hidden on mobile, visible on desktop */}
             <a 
-              href="/Naveen_Full_Stack_Developer_3Years (1).pdf"
+              href="/Naveen_Full_Stack_Developer_3Years.pdf"
               download="Naveen_Kumar_Boppana_Resume.pdf" 
               className="header-btn font-body-md desktop-only-btn"
             >
@@ -465,7 +465,7 @@ export default function Portfolio() {
           <a href="#experience" onClick={() => setIsMobileMenuOpen(false)}>Experience</a>
           <a href="#projects" onClick={() => setIsMobileMenuOpen(false)}>Projects</a>
           <a href="#contact" onClick={() => setIsMobileMenuOpen(false)}>Contact</a>
-          <a href="/Naveen_Full_Stack_Developer_3Years (1).pdf" download="Naveen_Kumar_Boppana_Resume.pdf" className="header-btn" style={{ textAlign: 'center', marginTop: '1rem' }} onClick={() => setIsMobileMenuOpen(false)}>
+          <a href="/Naveen_Full_Stack_Developer_3Years.pdf" download="Naveen_Kumar_Boppana_Resume.pdf" className="header-btn" style={{ textAlign: 'center', marginTop: '1rem' }} onClick={() => setIsMobileMenuOpen(false)}>
             Resume
           </a>
         </div>
