@@ -438,7 +438,7 @@ export default function Portfolio() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
             {/* Hidden on mobile, visible on desktop */}
             <a 
-              href="/naveen-resume.pdf" 
+              href="/Naveen_Full_Stack_Developer_3Years(1).pdf
               download="Naveen_Kumar_Boppana_Resume.pdf" 
               className="header-btn font-body-md desktop-only-btn"
             >
